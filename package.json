@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/phonglk/simple-html-template#readme",
   "dependencies": {
-    "chokidar": "^2.0.4"
+    "chokidar": "^2.1.8"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
